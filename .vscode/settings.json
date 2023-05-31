@@ -1,6 +1,9 @@
 {
     "cmake.buildDirectory": "${workspaceFolder}/build_group_signe",
     "cmake.sourceDirectory": "${workspaceFolder}/group_signe",
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "system.h": "c"
+    }
 
 }
